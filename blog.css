@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    
+}
+nav ul li a:hover{
+    color: aqua;
+    background-color: brown;
+}
+
+nav li{
+    list-style: none;
+    justify-content: space-around; 
+    display: inline;
+    margin: 50px 220px 50px 50px;    
+   
+}
+
+main form label {
+    display: block;
+}

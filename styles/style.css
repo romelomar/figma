@@ -102,7 +102,6 @@ font-weight: 600;
     display:flex;
     justify-content: space-between;
     margin: 0 39px 0 232px;
-    
 }
 .banner-profile-pic{
     width: 584px;
@@ -127,7 +126,7 @@ main{
 
 .about{
     background-color: #FFF8F3;
-    padding: 130px 156px;
+    padding: 130px 156px 0 156px;
     border-radius: 10px;
     text-align: center;
     margin-top: 130px;
@@ -142,4 +141,15 @@ main{
     font-size: 18px;
     font-weight: 400;
 
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px; 
+    
+   
+}
+.item-description{
+    font-weight: 600;
+    margin-bottom: 50px;
 }
