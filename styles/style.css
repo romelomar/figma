@@ -57,7 +57,7 @@
 }
 /* header styles*/
 .header{
-    background-image: url("/developer.png"),url("/header_bg.png");
+    background-image: url("developer.png"),url("header_bg.png");
     background-repeat: no-repeat;
     margin-left: 10px;
     background-position: top left, bottom right;
